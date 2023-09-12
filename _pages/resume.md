@@ -3,6 +3,8 @@ permalink: /resume/
 title: "Resume"
 ---
 
+[Resume as PDF](/assets/resume.pdf)
+
 ## Goals
 
 I want to be hired to teach math
