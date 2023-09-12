@@ -19,6 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is describing my site. I made it to show my students
   how they can create their own website. More words because
   I can use multiple lines.
+baseurl: /eportfolio-fall-2023/
 # twitter_username: username
 github_username: StevenClontz
 minimal_mistakes_skin: default
