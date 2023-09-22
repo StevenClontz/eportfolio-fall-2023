@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
+[Here's my awesome demo LaTeX file!](../assets/demo.pdf)
+
 Steven Clontz is a [mathematician](/math/), [professor](/teaching), and
 [puzzle designer](/puzzles/) based out of the University of South Alabama
 in Mobile, Alabama. His puzzles and games have been published in print,
