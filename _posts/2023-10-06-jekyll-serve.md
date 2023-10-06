@@ -11,5 +11,5 @@ tags:
 
 Dear diary, today I showed my students how to use
 `jekyll serve` to preview their ePortfolio before pushing
-it live. Some extra words.
+it live. Some extra words. A quick edit.
 
